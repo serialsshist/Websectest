@@ -39,7 +39,7 @@ Setup Instructions
 
     Clone the Repository:
 
-git clone https://github.com/yourusername/web-security-tester.git
+git clone https://github.com/serialsshist/web-security-tester.git
 cd web-security-tester
 
 Set Up a Virtual Environment:
